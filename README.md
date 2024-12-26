@@ -71,4 +71,4 @@ Compare the simulated results with the truth table for a JK Flip-Flop.
 ![Screenshot 2024-12-12 104758](https://github.com/user-attachments/assets/6938f8e1-dbd5-4230-8ac3-660155e6a476)
 
 ### RESULTS:
-Designed and verified the implimentation of JK flipflop circuit and truthtable in quartus ii using verilog programming successfully.
+Designed and verified the implimentation of JK flipflop circuit and truthtable in quartus II using verilog programming successfully.
